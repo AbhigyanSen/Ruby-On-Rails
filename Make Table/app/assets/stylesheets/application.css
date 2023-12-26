@@ -1,0 +1,8 @@
+.search-container {
+    text-align: center;
+  }
+  
+  .search-box {
+    display: inline-block;
+    margin: 0 10px; /* Adjust margin for spacing between boxes */
+  }  
